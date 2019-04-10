@@ -25,3 +25,7 @@ H:\Labs\2018\BB\GameTemplate\bin\Debug\SwinGame.dll
 H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csprojResolveAssemblyReference.cache
 H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGame.exe
 H:\Labs\2018\BB\GameTemplate\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csprojAssemblyReference.cache
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csproj.CoreCompileInputs.cache
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\GameTemplate\obj\x86\Debug-Windows\MyGame.exe
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\GameTemplate\obj\x86\Debug-Windows\MyGame.pdb
