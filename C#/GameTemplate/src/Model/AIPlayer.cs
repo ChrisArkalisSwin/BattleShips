@@ -62,7 +62,7 @@ public abstract class AIPlayer : Player
 		public static bool operator ==(Location @this, Location other)
 		{
 			return !ReferenceEquals(@this, null) && !ReferenceEquals(other, null) && @this.Row == other.Row && @this.Column == other.Column;
-//			return @this != null && other != null && @this.Row == other.Row && @this.Column == other.Column;
+			//return @this != null && other != null && @this.Row == other.Row && @this.Column == other.Column;
 		}
 
 		/// <summary>

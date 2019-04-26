@@ -77,7 +77,6 @@
     </None>
     <WinLibs Include="lib\win32\*.dll" />
   </ItemGroup>
-  <ItemGroup />
   <Target Name="CopyLibsToOut">
     <Copy SourceFiles="@(WinLibs)" DestinationFolder="$(OutDir)" />
   </Target>
