@@ -36,7 +36,8 @@ public class Tile
 	/// <value>the row index of the tile in the grid</value>
 	/// <returns>the row index of the tile</returns>
 	public int Row {
-		get { return _RowValue; }
+        //fixed bug where rowvalue is incorrect by adding 1 to _RowValue
+		get { return _RowValue + 1; }
 	}
 
 	/// <summary>
@@ -60,6 +61,7 @@ public class Tile
 					_Ship.AddTile(this);
 				}
 			} else {
+                
 				throw new InvalidOperationException("There is already a ship at [" + Row + ", " + Column + "]");
 			}
 		}
