@@ -46,7 +46,8 @@ public class Tile
 	/// <value>the column of the tile in the grid</value>
 	/// <returns>the column of the tile in the grid</returns>
 	public int Column {
-		get { return _ColumnValue; }
+        //fixed bug where _ColumnValue is incorrect by adding 1 to _ColumnValue, the grid now shows exactly where the player is
+        get { return _ColumnValue + 1; }
 	}
 
 	/// <summary>
