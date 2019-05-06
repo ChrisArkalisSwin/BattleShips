@@ -274,3 +274,5 @@ C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractic
 C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\GameTemplate\obj\x86\Debug-Windows\MyGameWin.csproj.CopyComplete
 C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\GameTemplate\obj\x86\Debug-Windows\MyGame.exe
 C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\GameTemplate\obj\x86\Debug-Windows\MyGame.pdb
+C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\GameTemplate\bin\Debug\Resources\fonts\Amatic-Bold.ttf
+C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\GameTemplate\bin\Debug\Resources\fonts\AmaticSC-Regular.ttf
