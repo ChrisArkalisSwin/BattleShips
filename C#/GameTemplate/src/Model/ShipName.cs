@@ -11,6 +11,7 @@ using System.Diagnostics;
 /// <remarks></remarks>
 public enum ShipName
 {
+    //the fact that these are numbered is redundant 
 	None = 0,
 	Tug = 1,
 	Submarine = 2,
