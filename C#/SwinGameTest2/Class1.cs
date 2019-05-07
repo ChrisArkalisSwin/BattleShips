@@ -23,7 +23,7 @@ namespace SwinGameTest2
         [TestMethod]
         public void CheckShipNameDestroyer()
         {
-            Assert.IsNotNull(ShipName.Destroyer); 
+            Assert.IsNotNull(ShipName.Destroyer);
         }
 
         [TestMethod]

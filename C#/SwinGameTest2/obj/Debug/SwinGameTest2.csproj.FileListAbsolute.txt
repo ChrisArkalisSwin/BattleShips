@@ -84,3 +84,7 @@ C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractic
 C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\SwinGameTest2\obj\Debug\SwinGameTest2.csproj.CopyComplete
 C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\SwinGameTest2\obj\Debug\SwinGameTest2.dll
 C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\SwinGameTest2\obj\Debug\SwinGameTest2.pdb
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\SwinGameTest2\obj\Debug\SwinGameTest2.csprojAssemblyReference.cache
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\SwinGameTest2\obj\Debug\SwinGameTest2.csproj.CoreCompileInputs.cache
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\SwinGameTest2\obj\Debug\SwinGameTest2.dll
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\SwinGameTest2\obj\Debug\SwinGameTest2.pdb

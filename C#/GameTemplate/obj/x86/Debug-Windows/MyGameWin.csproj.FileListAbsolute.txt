@@ -276,3 +276,6 @@ C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractic
 C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\GameTemplate\obj\x86\Debug-Windows\MyGame.pdb
 C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\GameTemplate\bin\Debug\Resources\fonts\Amatic-Bold.ttf
 C:\Users\Chris Arkalis\Desktop\Main\BachelorofComputerScience\DevToolsandPractices\BattleShips\BattleShips\C#\GameTemplate\bin\Debug\Resources\fonts\AmaticSC-Regular.ttf
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\GameTemplate\bin\Debug\Resources\fonts\Amatic-Bold.ttf
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\GameTemplate\bin\Debug\Resources\fonts\AmaticSC-Regular.ttf
+C:\Users\Riley Bristow\Documents\_Swinburne\2019\Development_Project_1-Tools_and_Practises\git\BattleShips\C#\GameTemplate\bin\Debug\Resources\Resources\sounds\WinningSound.wav
