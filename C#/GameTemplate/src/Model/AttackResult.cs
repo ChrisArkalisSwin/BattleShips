@@ -64,6 +64,7 @@ public class AttackResult
 	/// <param name="value">either hit, miss, destroyed, shotalready</param>
 	public AttackResult(ResultOfAttack value, string text, int row, int column)
 	{
+		// initialisation of variables
 		_Value = value;
 		_Text = text;
 		_Ship = null;
@@ -88,7 +89,7 @@ public class AttackResult
 	public override string ToString()
 	{
 		if (_Ship == null) {
-			return Text;
+			return Text; // returns information about the attack
 		}
 
 		return Text + " " + _Ship.Name;

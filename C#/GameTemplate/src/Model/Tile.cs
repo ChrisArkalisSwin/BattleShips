@@ -122,9 +122,9 @@ public class Tile
 	/// </summary>
 	internal void Shoot()
 	{
-		if ((false == Shot)) {
+		if ((false == Shot)) { // if square is shot 
 			Shot = true;
-			if (_Ship != null) {
+			if (_Ship != null) { //if square has value
 				_Ship.Hit();
 			}
 		} else {
