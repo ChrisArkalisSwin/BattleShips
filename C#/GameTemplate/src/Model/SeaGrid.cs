@@ -16,9 +16,9 @@ using System.Diagnostics;
 public class SeaGrid : ISeaGrid
 {
 
-	private const int _WIDTH = 10;
+	private const int _WIDTH = 12;
 
-	private const int _HEIGHT = 10;
+	private const int _HEIGHT = 12;
 	private Tile[,] _GameTiles;
 	private Dictionary<ShipName, Ship> _Ships;
 

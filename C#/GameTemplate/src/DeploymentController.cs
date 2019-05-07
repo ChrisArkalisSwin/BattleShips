@@ -13,9 +13,9 @@ using SwinGameSDK;
 /// </summary>
 static class DeploymentController
 {
-	private const int SHIPS_TOP = 98;
+	private const int SHIPS_TOP = 100;
 	private const int SHIPS_LEFT = 20;
-	private const int SHIPS_HEIGHT = 90;
+	private const int SHIPS_HEIGHT = 80;
 
 	private const int SHIPS_WIDTH = 300;
 	private const int TOP_BUTTONS_TOP = 72;

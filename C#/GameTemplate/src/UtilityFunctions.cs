@@ -11,19 +11,19 @@ using SwinGameSDK;
 /// </summary>
 static class UtilityFunctions
 {
-	public const int FIELD_TOP = 122;
-	public const int FIELD_LEFT = 349;
-	public const int FIELD_WIDTH = 418;
+	public const int FIELD_TOP = 124;
+	public const int FIELD_LEFT = 329;
+	public const int FIELD_WIDTH = 426;
 
 	public const int FIELD_HEIGHT = 418;
 
 	public const int MESSAGE_TOP = 548;
-	public const int CELL_WIDTH = 40;
-	public const int CELL_HEIGHT = 40;
+	public const int CELL_WIDTH = 36;
+	public const int CELL_HEIGHT = 36;
 
-	public const int CELL_GAP = 2;
+	public const int CELL_GAP = 1;
 
-	public const int SHIP_GAP = 3;
+	public const int SHIP_GAP = 2;
 	private static readonly Color SMALL_SEA = SwinGame.RGBAColor(6, 60, 94, 255);
 	private static readonly Color SMALL_SHIP = Color.Gray;
 	private static readonly Color SMALL_MISS = SwinGame.RGBAColor(1, 147, 220, 255);
