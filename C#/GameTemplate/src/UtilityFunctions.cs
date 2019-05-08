@@ -220,7 +220,8 @@ static class UtilityFunctions
 	/// </summary>
 	public static void DrawMessage()
 	{
-		SwinGame.DrawText(Message, MESSAGE_COLOR, GameResources.GameFont("Courier"), FIELD_LEFT, MESSAGE_TOP);
+        //new font message
+		SwinGame.DrawText(Message, MESSAGE_COLOR, GameResources.GameFont("Game"), FIELD_LEFT, MESSAGE_TOP);
 	}
 
 	/// <summary>
