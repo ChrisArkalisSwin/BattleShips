@@ -17,7 +17,8 @@ public static class GameResources
         //changed bottom right FPS Font to Amatic-bold
 		NewFont("CourierSmall", "Amatic-Bold.ttf", 8);
 		NewFont("Menu", "ffaccess.ttf", 8);
-	}
+        NewFont("Game", "gamebattles.ttf", 8);
+    }
 
 	private static void LoadImages()
 	{
@@ -49,7 +50,7 @@ public static class GameResources
 	private static void LoadSounds()
 	{
 		NewSound("Error", "error.wav");
-		NewSound("Hit", "Scream.wav");
+		NewSound("Hit", "hit.wav");
 		NewSound("Sink", "sink.wav");
 		NewSound("Siren", "siren.wav");
 		NewSound("Miss", "watershot.wav");
