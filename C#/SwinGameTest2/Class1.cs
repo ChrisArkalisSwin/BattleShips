@@ -46,9 +46,36 @@ namespace SwinGameTest2
         }
         //Mitch
         [TestMethod]
-        public void TestResuloffAttackEnumDestroyed()
+        public void TestResulofAttackEnumDestroyed()
         {
             Assert.AreEqual(2  ,(int)ResultOfAttack.Destroyed);
         }
+        //Tim
+        [TestMethod]
+        public void TestResulofAttackEnumHit()
+        {
+            Assert.AreEqual(0, (int)ResultOfAttack.Hit);
+        }
+        public void TestResulofAttackEnumShotAlready()
+        {
+            Assert.AreEqual(3, (int)ResultOfAttack.ShotAlready);
+        }
+        public void TestResulofAttackEnumGameOver()
+        {
+            Assert.AreEqual(4, (int)ResultOfAttack.GameOver);
+        }
+        public void TestAIOptionEnumEasy()
+        {
+            Assert.AreEqual(0, (int)AIOption.Easy);
+        }
+        public void TestAIOptionEnumMedium()
+        {
+            Assert.AreEqual(1, (int)AIOption.Medium);
+        }
+        public void TestAIOptionEnumHard()
+        {
+            Assert.AreEqual(2, (int)AIOption.Hard);
+        }
+        //edn_Tim
     }
 }
