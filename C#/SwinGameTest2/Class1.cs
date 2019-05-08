@@ -9,9 +9,9 @@ namespace SwinGameTest2
 {   
     [TestClass]
     public class Class1
-    {
+    {   //Chris
         [TestMethod]
-        public void CheckInBox()
+        public void TestUnitTest()
         {
             bool DoesUnitTestWork()
             {
@@ -20,22 +20,35 @@ namespace SwinGameTest2
 
             Assert.IsTrue(DoesUnitTestWork()); 
         }
+        //Chris
         [TestMethod]
         public void CheckShipNameDestroyer()
         {
             Assert.IsNotNull(ShipName.Destroyer);
         }
-
+        //Chris
         [TestMethod]
         public void ChechShipNameTug()
         {
             Assert.IsNotNull(ShipName.Tug); 
         }
-
+        //Chris 
         [TestMethod]
         public void CheckShipNameIsNone()
         {
             Assert.IsNotNull(ShipName.None); 
+        }
+        //Chris
+        [TestMethod]
+        public void TestResultofAttackEnumMiss()
+        {
+            Assert.AreEqual(1, (int)ResultOfAttack.Miss); 
+        }
+        //Mitch
+        [TestMethod]
+        public void TestResuloffAttackEnumDestroyed()
+        {
+            Assert.AreEqual(2  ,(int)ResultOfAttack.Destroyed);
         }
     }
 }
